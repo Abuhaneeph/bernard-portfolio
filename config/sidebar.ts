@@ -30,11 +30,6 @@ export const SocialMedias: SocialMedia[] = [
   },
   {
     label: 'Behance',
-    href: 'https://stackoverflow.com/users/14532445/kehinde-yusuf',
-    icon: FaStackOverflow,
-  },
-  {
-    label: 'Youtube',
     href: 'https://www.behance.net/bernardonuh',
     icon: FaBehance,
   },
