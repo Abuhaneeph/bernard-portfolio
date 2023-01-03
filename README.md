@@ -1,4 +1,4 @@
-# KH Yusuf's Personal Site
+# Bernard.O's Personal Site
 
 ## Local Development
 
@@ -34,4 +34,4 @@ and it should open at
 
 ## Credits
 
-KL
+KH 
